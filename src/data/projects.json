@@ -1,0 +1,26 @@
+[
+    {
+      "title": "HealthDay Website",
+      "imageSrc": "projects/healthsite.png",
+      "description": "I rebuilt the static pages and widgets for HealthDay's website in HTML and CSS. The website is responsive for desktop and mobile devices and optimized for faster loading speeds.",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://www.healthday.com",
+      "source": "https://www.healthday.com"
+    },
+    {
+      "title": "Grappling Hook Game",
+      "imageSrc": "projects/cosmic.png",
+      "description": "Cosmic Swing is a 3D game where the player swings through space to reach a portal as quickly as possible. Players are encouraged to test different strategies to improve their speed.",
+      "skills": ["C#", "Unity"],
+      "demo": "https://www.itch.io",
+      "source": "https://lancethecat.itch.io/cosmic-swing"
+    },
+    {
+      "title": "Python Web Scraper",
+      "imageSrc": "projects/project.png",
+      "description": "This collection of programs gather data on product listings from shopping sites such as Amazon and Ebay and port it into Excel spreadsheets to determine where to find the best deals on different products online.",
+      "skills": ["Python", "Excel"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/map24601/Web-Scraping-Project"
+    }
+  ]
